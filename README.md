@@ -9,7 +9,7 @@ This project analyzes purchasing behavior across various customer segments in a 
 - Investigate the relationship between price sensitivity and customer demographics.
 
 ## Dataset
-The dataset includes anonymized transaction data with details on:
+The datasets used for this project are QVI_transaction_data.xlsx and QVI_purchase_behaviour.csv (uploaded above) which include anonymized transaction data with details on:
 - Customer demographics: Lifestage (e.g., young singles/couples, mid-age singles/couples) and spending behavior (e.g., premium, mainstream, budget).
 - Transaction details: Date, store number, and transaction ID.
 - Product information: Brand, quantity, pack size, and sales amount.
