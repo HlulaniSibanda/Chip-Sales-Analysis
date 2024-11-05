@@ -1,4 +1,4 @@
-
+```
 install.packages("data.table")
 install.packages("ggmosaic")
 #### Load required libraries
@@ -378,4 +378,4 @@ ggplot(avg_pack_size_all, aes(x = LIFESTAGE, y = avg_pack_size, fill = PREMIUM_C
   ) +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
-
+```
