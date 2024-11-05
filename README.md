@@ -51,7 +51,7 @@ To replicate this analysis:
 2. Open the project in RStudio or your preferred IDE.
 3. Run `chip-sales-analysis.R` to execute the analysis.
 
-*Ensure all necessary libraries are installed. See the `requirements.txt` file for details.*
+*Ensure all necessary libraries are installed. See the `install_packages.R` file for details.*
 
 ## Future Improvements
 - Customer Segmentation: Further refine customer segments using clustering techniques.
