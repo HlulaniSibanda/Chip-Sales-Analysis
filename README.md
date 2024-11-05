@@ -45,7 +45,7 @@ This analysis was conducted using the following tools and libraries:
 ## Usage
 To replicate this analysis:
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/HlulaniSibanda/Chip-Sales-Analysis.git
    ```
 2. Open the project in RStudio or your preferred IDE.
